@@ -1,0 +1,18 @@
+
+.c{
+    position:absolute;
+    margin: auto 45%;
+   
+    
+} 
+.hello{
+    margin:200px 600px;
+    
+}
+.ab{
+    height: 400px;
+}
+.ac:hover{
+    color: aqua;
+    text-decoration: none;
+}
